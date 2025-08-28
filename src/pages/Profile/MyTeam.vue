@@ -1,11 +1,13 @@
 <template>
     <div>
-        <h1>One Task</h1>
+        my team
     </div>
 </template>
+
 <script>
 export default {
 
 }
 </script>
-<style></style>
+
+<style scoped></style>

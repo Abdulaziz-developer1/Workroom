@@ -49,8 +49,8 @@ export default {
     },
     methods: {
         nextStep() {
-            localStorage.setItem('email', this.email);
-            localStorage.setItem('password', this.password);
+            // localStorage.setItem('email', this.email);
+            // localStorage.setItem('password', this.password);
             this.$router.push('/step2');
         }
     }

@@ -1,11 +1,13 @@
 <template>
     <div>
-        <h1>Step 5</h1>
+        Calendar
     </div>
 </template>
+
 <script>
 export default {
 
 }
 </script>
-<style></style>
+
+<style scoped></style>

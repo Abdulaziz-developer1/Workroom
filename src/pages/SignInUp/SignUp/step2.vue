@@ -40,7 +40,7 @@
             <div class="step2-bottom">
                 <button style="background-color: transparent; color: #3F8CFF;"><i class="fa-solid fa-arrow-left"></i>
                     Previous</button>
-                <button to="">Next Step<i class="fa-solid fa-arrow-right"></i></button>
+                <button>Next Step<i class="fa-solid fa-arrow-right"></i></button>
             </div>
         </div>
 

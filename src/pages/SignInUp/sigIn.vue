@@ -63,7 +63,7 @@ export default {
                     close: true,
                 }).showToast();
 
-                this.$router.push("/signUp");
+                this.$router.push("/dashboard");
             } else {
                 Toastify({
                     text: "Iltimos, barcha maydonlarni to'ldiring",
